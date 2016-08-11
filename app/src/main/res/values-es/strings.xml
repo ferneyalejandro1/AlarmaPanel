@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarma</string>
+    <string name="close">Cerrar</string>
+    <string name="find">Encontrar</string>
+    <string name="off">Desactivar</string>
+    <string name="on">Activar</string>
+    <string name="open">Abrir</string>
+    <string name="settings">Configurar</string>
+    <string name="help">Ayuda</string>
+    <string name="textNumber">Ingrese número de destino</string>
+    <string name="textFind">Ingrese código de Localización</string>
+    <string name="textOpen">Ingrese código de desbloqueo</string>
+    <string name="textClose">Ingrese código de bloqueo</string>
+    <string name="textOff">Ingrese código para desactivar</string>
+    <string name="save">Guardar</string>
+    <string name="textOn">Ingrese código para activar</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings">
+    <EditTextPreference
+        android:key="editText_number"
+        android:title="@string/textNumber"
+        android:persistent="true"
+        android:defaultValue=""/>
+    <EditTextPreference
+        android:key="editText_find"
+        android:title="@string/textFind"
+        android:persistent="true"
+        android:defaultValue=""/>
+    <EditTextPreference
+        android:key="editText_open"
+        android:title="@string/textOpen"
+        android:persistent="true"
+        android:defaultValue=""/>
+    <EditTextPreference
+        android:key="editText_close"
+        android:title="@string/textClose"
+        android:persistent="true"
+        android:defaultValue=""/>
+    <EditTextPreference
+        android:key="editText_on"
+        android:title="@string/textOn"
+        android:persistent="true"
+        android:defaultValue=""/>
+    <EditTextPreference
+        android:key="editText_off"
+        android:title="@string/textOff"
+        android:persistent="true"
+        android:defaultValue=""/>
+
+</PreferenceScreen>

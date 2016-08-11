@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="buttonMessage">
+                <item name="android:layout_width">match_parent</item>
+                <item name="android:layout_height">0dp</item>
+                <item name="android:layout_weight">1</item>
+                <item name="android:textSize">24sp</item>
+                <item name="android:textAllCaps">true</item>
+                <item name="android:paddingLeft">16dp</item>
+                <item name="android:paddingRight">16dp</item>
+                <item name="android:fontFamily">sans-serif-medium</item>
+                <item name="android:elevation">4dp</item>
+                <item name="android:layout_marginLeft">48dp</item>
+                <item name="android:layout_marginRight">48dp</item>
+        </style>
+</resources>

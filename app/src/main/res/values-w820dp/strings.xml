@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Settings</string>
+    <string name="help">help</string>
+    <string name="textNumber">Insert number to send message</string>
+    <string name="textFind">Insert find code</string>
+    <string name="textOpen">Insert open code</string>
+    <string name="textClose">Insert close code</string>
+    <string name="textOff">Insert off code</string>
+    <string name="save">Save</string>
+</resources>
